@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Course Finder</string>
+    <string name="check_for_college_accreditation">Check For College Accreditation</string>
+    <string name="find_college_near_me">Find College Near Me</string>
+    <string name="view_all_tvet_colleges">View All TVET Colleges</string>
+    <string name="about_tvet_colleges">About TVET Colleges</string>
+    <string name="course_finder">Course Finder</string>
+    <string name="your_ultimate_reliable_course_buddy">Your ultimate reliable course buddy</string>
+    <string name="tvet_colleges">TVET Colleges</string>
+    <string name="university_of_tech">University Of Technologies</string>
+    <string name="universities">Universities</string>
+    <string name="verify_college_accreditation">Verify College Accreditation</string>
+    <string name="verification">Verification</string>
+    <string name="find_nearest_college">Find nearest college</string>
+    <string name="view_all_tvet_college">View all TVET Colleges</string>
+    <string name="tvet_description">TVET stands for \'technical and vocational education and training\'. It is an international educational term that is applied to certain post-school educational institutes.</string>
+    <string name="home">Home</string>
+    <string name="about">About</string>
+    <string name="donate">Donate</string>
+    <string name="tvet_descriptions">TVET stands for \'technical and vocational education and training\'. It is an international educational term that is applied to certain post-school educational institutes</string>
+    <string name="locate_college">Find college(s) near me</string>
+    <string name="tvet_fact_check">TVET Fact Check</string>
+    <string name="public_colleges">Public Colleges in South Africa</string>
+    <string name="search_by_name">Search by name</string>
+    <string name="or">Or</string>
+    <string name="link_message"><a href="https://www.google.com/"><u>Website</u></a></string>
+    <string name="filter_by_province">Filter by province</string>
+    <string name="search_for_college_by_name">Search by name</string>
+    <string name="search_col">Search College</string>
+    <string name="technical_and_vocational_education_and_training_tvet">Technical and Vocational Education and Training(TVET)</string>
+
+    <string-array name="province_array">
+        <item>Mpumalanga</item>
+        <item>Gauteng</item>
+        <item>Limpopo</item>
+        <item>Northern Cape</item>
+        <item>North West</item>
+        <item>Western Cape</item>
+        <item>Free State</item>
+        <item>Eastern Cape</item>
+        <item>KwaZulu-Natal</item>
+
+    </string-array>
+</resources>
